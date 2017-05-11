@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="playing_now">Playing now</string>
+    <string name="songs">Songs</string>
+    <string name="playlists">Playlists</string>
+    <string name="recent">Recent</string>
+    <string name="sting_fields_of_gold">Sting - Fields of Gold</string>
+    <string name="queen_somebody_to_love">Queen - Somebody to love</string>
+    <string name="police_message_in_a_bottle">Police - Message in a bottle</string>
+    <string name="songs_notes">NOTES: This is the activity showing song list. The songs are linked to the Playing now activity. That is a static image. I didn\'t provide any code to change the song name in the landing activity according to every starting link, since in the project specification it is written for this app it is not required to implement any functionality</string>
+    <string name="playing_now_notes">NOTES: This is the activity showing the song is playing now.</string>
+    <string name="greatest_hits">Greatest hits</string>
+    <string name="love_compilation_iii">Love compilation III</string>
+    <string name="playlists_notes">NOTES: This is the activity showing the playlists. These are linked to the Playing now activity. That is a still image. I didn\'t provide any code to change the song name in the landing activity according to every starting link, since in the project specification it is written in the app it is not required to implement any functionality</string>
+    <string name="recent_notes">NOTES: This is the activity showing recent songs. The songs are linked to the Playing now activity. That is a static image. I didn\'t provide any code to change the song name in the landing activity according to every starting link, since in the project specification it is written for this app it is not required to implement any functionality</string>
+</resources>

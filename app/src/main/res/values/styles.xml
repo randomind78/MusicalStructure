@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="songs_category">
+        <item name="android:background">@color/songsBg</item>
+        <item name="android:padding">@dimen/padding</item>
+    </style>
+
+    <style name="play_now_category">
+        <item name="android:background">@color/playingNowBg</item>
+        <item name="android:padding">@dimen/padding</item>
+    </style>
+
+    <style name="recent_category">
+        <item name="android:background">@color/recentBg</item>
+        <item name="android:padding">@dimen/padding</item>
+    </style>
+
+    <style name="playlists_category">
+        <item name="android:background">@color/playlistsBg</item>
+        <item name="android:padding">@dimen/padding</item>
+    </style>
+
+    <style name="text">
+        <item name="android:paddingLeft">@dimen/paddingLeft</item>
+        <item name="android:paddingBottom">@dimen/paddingBottom</item>
+    </style>
+
+
+</resources>

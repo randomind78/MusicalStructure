@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="playingNowBg">#5271c1</color>
+    <color name="songsBg">#e4007b</color>
+    <color name="playlistsBg">#b111b9</color>
+    <color name="recentBg">#89c323</color>
+    <color name="music_button_bar_bg">#070807</color>
+</resources>
